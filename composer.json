@@ -1,0 +1,21 @@
+{
+  "name": "izabolotnev/fork-manager",
+  "description": "Simple fork manager",
+  "minimum-stability": "stable",
+  "license": "GNU General Public License 2.0 or later",
+  "authors": [
+    {
+      "name": "Ilya Zabolotnev",
+      "email": "gmail@zabolotnev.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "ext-pcntl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "izabolotnev\\": "src"
+    }
+  }
+}
