@@ -2,7 +2,7 @@
   "name": "izabolotnev/fork-manager",
   "description": "Simple fork manager",
   "minimum-stability": "stable",
-  "license": "GNU General Public License 2.0 or later",
+  "license": "GPL-2.0-or-later",
   "authors": [
     {
       "name": "Ilya Zabolotnev",
